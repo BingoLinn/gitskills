@@ -1,2 +1,2 @@
 # gitskills
-#   my first branch
+# Creating a new branch is quick & simple!
